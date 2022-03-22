@@ -1,0 +1,15 @@
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\obj\Debug\net6.0\appSeries.csproj.AssemblyReference.cache
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\obj\Debug\net6.0\appSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\obj\Debug\net6.0\appSeries.AssemblyInfoInputs.cache
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\obj\Debug\net6.0\appSeries.AssemblyInfo.cs
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\obj\Debug\net6.0\appSeries.csproj.CoreCompileInputs.cache
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\bin\Debug\net6.0\appSeries.exe
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\bin\Debug\net6.0\appSeries.deps.json
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\bin\Debug\net6.0\appSeries.runtimeconfig.json
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\bin\Debug\net6.0\appSeries.dll
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\bin\Debug\net6.0\appSeries.pdb
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\obj\Debug\net6.0\appSeries.dll
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\obj\Debug\net6.0\refint\appSeries.dll
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\obj\Debug\net6.0\appSeries.pdb
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\obj\Debug\net6.0\appSeries.genruntimeconfig.cache
+C:\01desafio-dio\projetoDIO\criandoAPP\appSeries\obj\Debug\net6.0\ref\appSeries.dll
